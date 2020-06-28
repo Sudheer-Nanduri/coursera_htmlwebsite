@@ -13,12 +13,10 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
-  color: white;
 }
 
 #section{
-  color: gray;
+  color: brown;
 }
 
 /* Simple Responsive Framework. */
