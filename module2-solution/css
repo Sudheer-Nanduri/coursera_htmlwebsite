@@ -17,6 +17,10 @@ p {
   color: white;
 }
 
+#section{
+  color: gray;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
